@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
-<h1 align="center">Hi 👋, I am Damon</h1>
+<h1 align="center">Hi 👋, I am Faraz</h1>
 <h3 align="center">Crafting Scalable Full-Stack Solutions | Real-time Apps | Next.js • TypeScript • MongoDB • AI & IoT Enthusiast</h3>
 
 <img align="right" width="400" alt="CoderThisSide" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
