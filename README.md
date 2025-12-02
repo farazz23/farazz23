@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I am Faraz</h1>
-<h3 align="center">Crafting Scalable Full-Stack Solutions | Real-time Apps | Next.js • TypeScript • MongoDB • AI & IoT Enthusiast</h3>
+<h3 align="center">Crafting Scalable Full-Stack Solutions | Real-time Apps | Next.js • TypeScript • MongoDB • AI </h3>
 
 <img align="right" width="400" alt="CoderThisSide" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
@@ -17,9 +17,7 @@
 
 - 💬 Ask me about ***MERN Stack and Next.js***
 
-- 📫 Reach me at ***cman55245@gmail.com , farazashraf1523@gmail.com***
-
-- ⚡ Fun fact ***I'm a rapper***
+- 📫 Reach me at ***ashraffaraaz6@gmail.com , farazashraf1523@gmail.com***
 
 ---
 
@@ -64,7 +62,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theboinextdoor&theme=dracula&row=1&column=7&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=farazz23&theme=dracula&row=1&column=7&no-frame=true" />
 </p>
 
 ---
@@ -72,8 +70,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theboinextdoor&show_icons=true&theme=dracula" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theboinextdoor&layout=compact&theme=dracula" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=farazz23&show_icons=true&theme=dracula" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazz23&layout=compact&theme=dracula" height="170px"/>
 </p>
 
 ---
@@ -81,7 +79,7 @@
 ### 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theboinextdoor&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farazz23&theme=dracula" />
 </p>
 
 ---
@@ -89,5 +87,5 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theboinextdoor&theme=dracula&bg_color=0d1117&color=00e676&line=00e676&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farazz23&theme=dracula&bg_color=0d1117&color=00e676&line=00e676&point=ffffff" />
 </p>
