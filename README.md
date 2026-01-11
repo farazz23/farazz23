@@ -17,7 +17,7 @@
 
 - 💬 Ask me about ***MERN Stack and Next.js***
 
-- 📫 Reach me at ***ashraffaraaz6@gmail.com , farazashraf1523@gmail.com***
+- 📫 Reach me at ***ashraffaraaz6@gmail.com***
 
 ---
 
@@ -58,31 +58,6 @@
 </p>
 
 
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farazz23&theme=dracula&row=1&column=7&no-frame=true" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farazz23&show_icons=true&theme=dracula" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazz23&layout=compact&theme=dracula" height="170px"/>
-</p>
-
----
-
-### 🔥 GitHub Streaks
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farazz23&theme=dracula" />
-</p>
-
----
 
 ### 📊 Contribution Graph
 
