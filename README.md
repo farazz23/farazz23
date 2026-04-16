@@ -104,6 +104,27 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
   </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+      <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/67ee63ef-f3fd-4253-94b7-4ed1a5a5e923" />
+  </a>
+
+
+</p>
+
+### Observability & Monitoring
+<p align="left">
+  <a href="https://prometheus.io/" target="_blank">
+   <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/7220d12b-9a88-4cb0-9dda-07a95b994e60" />
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/490c604f-da4d-4837-80ce-4acbfed537e1" />
+  </a>
+  <a href="https://grafana.com/oss/loki/" target="_blank">
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/5e9dac04-3b2f-45b7-b7ba-318257d38b7e" />
+  </a>
+  <a href="https://sentry.io/" target="_blank">
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/04fcc790-c786-478c-98b7-6b0051df3f5a" />
+  </a>
 </p>
 
 ### Tools & Platforms
